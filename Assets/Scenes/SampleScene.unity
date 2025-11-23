@@ -470,24 +470,56 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 048a530c64c313440acb0799c706b2c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Stasts:
-    atk: 0
-    def: 0
-    spd: 0
-    crt: 0
-    aim: 0
-    eva: 0
-  Weapon:
+  a:
     name: piero
-    dmgType: 1
-    elem: 2
-    bonusStats:
-      atk: 0
-      def: 0
-      spd: 0
-      crt: 0
-      aim: 0
-      eva: 0
+    hp: 100
+    baseStats:
+      atk: 9
+      def: 4
+      res: 3
+      spd: 12
+      crt: 12
+      aim: 20
+      eva: 10
+    resistance: 20
+    weakness: 30
+    weapon:
+      name: picca
+      dmgType: 10
+      elem: 20
+      bonusStats:
+        atk: 2
+        def: 2
+        res: 2
+        spd: 2
+        crt: 2
+        aim: 2
+        eva: 2
+  b:
+    name: pippo
+    hp: 100
+    baseStats:
+      atk: 9
+      def: 2
+      res: 12
+      spd: 122
+      crt: 12
+      aim: 20
+      eva: 10
+    resistance: 40
+    weakness: 40
+    weapon:
+      name: 'bastone '
+      dmgType: 20
+      elem: 40
+      bonusStats:
+        atk: 2
+        def: 2
+        res: 2
+        spd: 2
+        crt: 2
+        aim: 2
+        eva: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
