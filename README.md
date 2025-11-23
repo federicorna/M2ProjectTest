@@ -12,6 +12,7 @@ Ammetto anche che per problemi personali non sono riuscito a fare tanti esercizi
 Credo che la complessità che ho trovato a fare questo esercizio da uno 1 a 10 è sicuramente 10.
 
 Parlando del progetto in se:
+Il codice e' tranquillamente ottimizzabile ad esempio sui get o levare qualche parentesi graffa qua e la.
 Non so se ho sbagliato io qualcosa, ma ho notato che ovviamente in base alle statistiche del personaggio,
 se non vengono imposti dei limiti (magari sfruttando i setter), possono produrre infiniti Miss o grossi sbilanciamenti durante il combattimento.
 Grazie e buona continuazione!
